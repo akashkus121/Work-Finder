@@ -71,11 +71,17 @@ $ npm start (to start the backend)
 This project was created using the following technologies:
 </br>
 Frontend</br>
+
 React.js - JavaScript library for building user interfaces, particularly for single-page applications.</br>
+
 React Router - Used for handling routing between pages.</br>
+
 Redux - State management library for managing global state across the application.</br>
+
 React-Redux - Official React bindings for Redux to manage state in the frontend.</br>
+
 Axios - For making API calls to the backend.</br>
+
 React Hooks - For managing state and lifecycle methods in functional components.</br>
 Tailwind- For styling the user interface.</br>
 React Icons - For adding icons to the UI.</br>
