@@ -3,17 +3,6 @@
 Work Finder is a full-stack job portal web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The platform allows users to register, search for jobs, and apply directly. The system also supports two separate login portals: one for recruiters to post job opportunities and manage listings, and another for students to search for jobs and manage applications. </h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
- 
-
-
 ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
