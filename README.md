@@ -56,8 +56,8 @@ $ npm start (to start the backend)
 
 ##  Key Features
 
--Dual Login Portals: Separate portals for recruiters and students.
--Recruiter Portal: Allows recruiters to post job listings, manage job vacancies, and view applications.
+-Dual Login Portals: Separate portals for recruiters and students.</br>
+-Recruiter Portal: Allows recruiters to post job listings, manage job vacancies, and view applications.</br>
 -Student Portal: Allows students to search for jobs, view detailed descriptions, and apply directly for jobs.
 -User Authentication: Secure login and registration with JWT token authentication.
 -Job Search: Students can search for jobs based on keywords, location, and other criteria.
