@@ -105,10 +105,13 @@ MongoDB - NoSQL database to store user, job, and application data.</br>
  ##  Screenshots 
  
 
-![1](https://github.com/user-attachments/assets/b282b26c-a635-4738-ac77-43dfa2c28f8d)
+![1](https://github.com/akashkus121/Work-Finder/blob/main/Screenshot%202025-01-22%20144754.png)
 ---- -
-
-
+![2](https://github.com/akashkus121/Work-Finder/blob/main/Screenshot%202025-01-22%20144840.png)
+----- -
+![3](https://github.com/akashkus121/Work-Finder/blob/main/Screenshot%202025-01-22%20145020.png)
+---- -
+![4](https://github.com/akashkus121/Work-Finder/blob/main/Screenshot%202025-01-22%20145110.png)
 --- - 
 ## Author
 - Portfolio: [Akash](https://gregarious-hummingbird-f1cf08.netlify.app/)
