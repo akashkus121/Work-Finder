@@ -58,54 +58,46 @@ $ npm start (to start the backend)
 
 -Dual Login Portals: Separate portals for recruiters and students.</br>
 -Recruiter Portal: Allows recruiters to post job listings, manage job vacancies, and view applications.</br>
--Student Portal: Allows students to search for jobs, view detailed descriptions, and apply directly for jobs.
--User Authentication: Secure login and registration with JWT token authentication.
--Job Search: Students can search for jobs based on keywords, location, and other criteria.
--Job Application: Students can apply for jobs directly through the portal.
--State Management with Redux: Redux is used to manage global state across the application, enabling better state handling for job search results, user authentication status, and job applications.
--Responsive Design: Optimized for both desktop and mobile devices.
+-Student Portal: Allows students to search for jobs, view detailed descriptions, and apply directly for jobs.</br>
+-User Authentication: Secure login and registration with JWT token authentication.</br>
+-Job Search: Students can search for jobs based on keywords, location, and other criteria.</br>
+-Job Application: Students can apply for jobs directly through the portal.</br>
+-State Management with Redux: Redux is used to manage global state across the application, enabling better state handling for job search results, user authentication status, and job applications.</br>
+-Responsive Design: Optimized for both desktop and mobile devices.</br>
 
 <br/>
 
 ## Technologies Used
 This project was created using the following technologies:
-
-Frontend
-React.js - JavaScript library for building user interfaces, particularly for single-page applications.
-React Router - Used for handling routing between pages.
-Redux - State management library for managing global state across the application.
-React-Redux - Official React bindings for Redux to manage state in the frontend.
-Axios - For making API calls to the backend.
-React Hooks - For managing state and lifecycle methods in functional components.
-CSS - For styling the user interface.
-React Icons - For adding icons to the UI.
-Backend
-Node.js - JavaScript runtime environment to build scalable network applications.
-Express.js - Web framework for Node.js to handle HTTP requests and routing.
-Mongoose - For modeling MongoDB data and performing database operations.
-JWT (jsonwebtoken) - For secure user authentication and session management.
-Bcryptjs - For password hashing and encryption.
-Nodemailer - For sending emails (e.g., notifications for recruiters when students apply).
-Dotenv - For managing environment variables.
-Multer - Middleware for handling file uploads, if any.
-Cors - Middleware to allow cross-origin requests.
-Database
-MongoDB - NoSQL database to store user, job, and application data.
+</br>
+Frontend</br>
+React.js - JavaScript library for building user interfaces, particularly for single-page applications.</br>
+React Router - Used for handling routing between pages.</br>
+Redux - State management library for managing global state across the application.</br>
+React-Redux - Official React bindings for Redux to manage state in the frontend.</br>
+Axios - For making API calls to the backend.</br>
+React Hooks - For managing state and lifecycle methods in functional components.</br>
+Tailwind- For styling the user interface.</br>
+React Icons - For adding icons to the UI.</br>
+Backend</br>
+Node.js - JavaScript runtime environment to build scalable network applications.</br>
+Express.js - Web framework for Node.js to handle HTTP requests and routing.</br>
+Mongoose - For modeling MongoDB data and performing database operations.</br>
+JWT (jsonwebtoken) - For secure user authentication and session management.</br>
+Bcryptjs - For password hashing and encryption.</br>
+Nodemailer - For sending emails (e.g., notifications for recruiters when students apply).</br>
+Dotenv - For managing environment variables.</br>
+Multer - Middleware for handling file uploads, if any.</br>
+Cors - Middleware to allow cross-origin requests.</br>
+Database</br>
+MongoDB - NoSQL database to store user, job, and application data.</br>
  
  ##  Screenshots 
  
 
 ![1](https://github.com/user-attachments/assets/b282b26c-a635-4738-ac77-43dfa2c28f8d)
 ---- -
-![2](https://github.com/user-attachments/assets/7075aa1a-9959-4171-bc5b-e01a1d36e3d4)
---- - 
-![3](https://github.com/user-attachments/assets/a729ae3b-bdb6-4f29-9e29-afaa8c02553a)
 
---- - 
-![4](https://github.com/user-attachments/assets/0040b56b-ad77-4ff2-a7d9-d197e41bf14e)
-
---- - 
-![5](https://github.com/user-attachments/assets/6e25d23e-7d85-4928-8205-b02a33a709e8)
 
 --- - 
 ## Author
@@ -120,20 +112,3 @@ MIT License
 
 Copyright (c) 2024 Akash Kushwaha
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
