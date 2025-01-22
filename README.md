@@ -83,18 +83,33 @@ React-Redux - Official React bindings for Redux to manage state in the frontend.
 Axios - For making API calls to the backend.</br>
 
 React Hooks - For managing state and lifecycle methods in functional components.</br>
+
 Tailwind- For styling the user interface.</br>
+
 React Icons - For adding icons to the UI.</br>
+
+Cloudinary - For handling image uploads and storage.</br>
+
 Backend</br>
+
 Node.js - JavaScript runtime environment to build scalable network applications.</br>
+
 Express.js - Web framework for Node.js to handle HTTP requests and routing.</br>
+
 Mongoose - For modeling MongoDB data and performing database operations.</br>
+
 JWT (jsonwebtoken) - For secure user authentication and session management.</br>
+
 Bcryptjs - For password hashing and encryption.</br>
-Nodemailer - For sending emails (e.g., notifications for recruiters when students apply).</br>
+
 Dotenv - For managing environment variables.</br>
+
 Multer - Middleware for handling file uploads, if any.</br>
+
 Cors - Middleware to allow cross-origin requests.</br>
+
+Cloudinary SDK - For uploading images to Cloudinary.
+
 Database</br>
 MongoDB - NoSQL database to store user, job, and application data.</br>
  
